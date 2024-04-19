@@ -177,6 +177,7 @@ a{
   }
 
   .user-image img{
+    height:350px;
     z-index:-9;
   }
 
